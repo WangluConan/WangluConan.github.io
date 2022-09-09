@@ -8,13 +8,13 @@
     <link href="/2022/09/09/one/"/>
     <url>/2022/09/09/one/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<p>这里是我的第一篇文章</p>]]></content>
     
     
     
     <tags>
       
-      <tag>one</tag>
+      <tag>我的第一篇文章</tag>
       
     </tags>
     
@@ -36,6 +36,12 @@
       
     </categories>
     
+    
+    <tags>
+      
+      <tag>Hello World</tag>
+      
+    </tags>
     
   </entry>
   
